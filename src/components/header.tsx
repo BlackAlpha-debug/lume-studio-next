@@ -97,8 +97,8 @@ export const HeroHeader = () => {
                   size="sm"
                   className={cn(isScrolled && "lg:hidden")}
                 >
-                  <Link href="/full-version">
-                    <span>Full Version</span>
+                  <Link href="/contact">
+                    <span>Contact Us</span>
                   </Link>
                 </Button>
                 <Button
@@ -106,8 +106,8 @@ export const HeroHeader = () => {
                   size="sm"
                   className={cn(isScrolled ? "lg:inline-flex" : "hidden")}
                 >
-                  <Link href="/full-version">
-                    <span>Join waitlist</span>
+                  <Link href="/contact">
+                    <span>Contact Us</span>
                   </Link>
                 </Button>
               </div>
