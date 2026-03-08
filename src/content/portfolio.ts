@@ -1,24 +1,31 @@
 export const PORTFOLIO_CONTENT = [
   {
-    name: "Ziyarah Travels",
-    description:
-      "Premium pilgrimage transport services website with WhatsApp messaging automation, booking system, and a full-featured admin dashboard. Built with React.",
-    img: "/images/portfolio/ziyarah-travels.jpg",
-    url: "https://www.ziyarah-travels.com",
-  },
-  {
     name: "ValueServices",
     description:
-      "Professional bookkeeping and tax preparation platform for US-based businesses, doctors, and individuals. Features service showcases and client portal.",
-    img: "/images/portfolio/valueservices.jpg",
+      "Full website and AI assistant bot for expert bookkeeping services. Features accurate monthly reconciliation, real-time reporting, and organized records for growing businesses.",
+    img: "/images/valueservice.png",
     url: "https://valueservicesco.com",
   },
   {
-    name: "Ziyarah Travels Admin Dashboard",
+    name: "Ziyarah Travels",
     description:
-      "Custom admin portal for managing bookings, drivers, routes, and customer communications. Secure login with role-based access control.",
-    img: "/images/portfolio/ziyarah-dashboard.jpg",
+      "Premium pilgrimage transport services company operating in Saudi Arabia. Provides spiritual journey services to the holy lands of Makkah and Madinah with booking system and WhatsApp automation.",
+    img: "/images/ziyarah travels.png",
     url: "https://www.ziyarah-travels.com",
+  },
+  {
+    name: "Life Cam CNC",
+    description:
+      "Professional online platform for CNC routing and laser machines. Features product showcases, service descriptions, maintenance guidance, and interactive demonstrations.",
+    img: "/images/lifecam.png",
+    url: "https://lifecamcnc.com",
+  },
+  {
+    name: "New Life Traders",
+    description:
+      "Dynamic platform for advertising services, 3D sports branding, and cam carpets. Delivers effective advertising solutions with interactive product displays and high-quality visuals.",
+    img: "/images/new life traders.png",
+    url: "https://www.newlifetrader.com",
   },
 ];
 
@@ -60,22 +67,6 @@ export const MORE_PROJECTS = [
     description:
       "Comprehensive WordPress platform showcasing AI and technology services with custom design, SEO optimization, and interactive project showcases.",
     img: "/images/portfolio/cogni-website.jpg",
-    url: "#",
-    category: "Web Development",
-  },
-  {
-    name: "New Life Traders Website",
-    description:
-      "Dynamic platform for 3D sports branding, cam carpets, and advertising solutions with interactive product displays and high-quality visuals.",
-    img: "/images/portfolio/newlife-traders.jpg",
-    url: "https://www.newlifetrader.com",
-    category: "Web Development",
-  },
-  {
-    name: "Life Cam CNC Website",
-    description:
-      "Professional online platform for CNC routing machines — featuring product showcases, service descriptions, and interactive demonstrations.",
-    img: "/images/portfolio/lifecam-cnc.jpg",
     url: "#",
     category: "Web Development",
   },

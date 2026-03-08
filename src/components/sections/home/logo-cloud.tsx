@@ -5,11 +5,6 @@ export default function LogoCloud() {
     <section className=" overflow-hidden py-16">
       <div className="group relative m-auto max-w-7xl px-6">
         <div className="flex flex-col items-center md:flex-row">
-          <div className="md:max-w-44 md:border-r md:pr-6">
-            <p className="text-end text-sm hidden xl:block">
-              Powering the best teams
-            </p>
-          </div>
           <div className="relative py-6 md:w-[calc(100%-11rem)]">
             <InfiniteSlider speedOnHover={20} speed={40} gap={100}>
               <div className="flex">
